@@ -27,15 +27,6 @@ Connection();
 app.listen(PORT, () => console.log(`Server is running successfully on PORT ${PORT}`));
 
 
-
-
-
-
-
-
-
-
-
 // import express from 'express';
 // import Connection  from './database/db.js';
 // import Router from './routes/route.js';
